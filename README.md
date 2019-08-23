@@ -14,7 +14,7 @@ absenteeism continues?
 Built suitable model (both R and Python) to answer the above two questions with a
 proper report 
 
-Dataset Details:
+Dataset Details: 
 Dataset Characteristics: Timeseries Multivariant
 Number of Attributes: 21
 Missing Values : Yes
